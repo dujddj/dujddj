@@ -9,8 +9,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://www.123pan.com/s/4uIrVv-16Oph.html"：发现更新新版本了，也是立马把讨厌的开屏广和播放广去除，让兄弟安心的看动漫
-作者也是换新图标了。
+-   <a href="https://www.123pan.com/s/4uIrVv-16Oph.html"：发现更新新版本了，也是立马把讨厌的开屏广和播放广去除，让兄弟安心的看动漫作者也是换新图标了。
 
 ### **技术栈:**
 

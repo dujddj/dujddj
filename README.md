@@ -9,7 +9,8 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://www.123pan.com/s/4uIrVv-16Oph.html"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：发现更新新版本了，也是立马把讨厌的开屏广和播放广去除，让兄弟安心的看动漫
+-   <a href="https://www.123pan.com/s/4uIrVv-16Oph.html"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：https://camo.githubusercontent.com/983722a50e8c4aaf343a89c35130a7233aa4fdd8a1a23c5c3b1a2df5743e4489/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d696e6f72692d74792673686f775f69636f6e733d74727565267468656d653d767565
+发现更新新版本了，也是立马把讨厌的开屏广和播放广去除，让兄弟安心的看动漫
 作者也是换新图标了。
 
 ### **技术栈:**

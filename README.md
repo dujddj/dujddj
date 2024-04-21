@@ -27,4 +27,4 @@
 ### Github 活跃度
 
 [![这个确实，我更喜欢用dc和whatsapp](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)]
-![Minori-ty'sgithub(https://github.com/ashutosh00710/github-readme-activity-graph)stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vuo)
+![Minori-ty'sgithub(https://github.com/ashutosh00710/github-readme-activity-graph)stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vur)

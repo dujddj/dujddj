@@ -25,4 +25,6 @@
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
 ### Github 活跃度
+
+https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)
 [Minori-ty'sgithub(https://github.com/ashutosh00710/github-readme-activity-graph)stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
